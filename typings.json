@@ -1,0 +1,11 @@
+{
+  "name": "bcrypt-then",
+  "version": "1.0.0",
+  "main": "index.d.ts",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160824014937"
+  },
+  "dependencies": {
+    "any-promise": "npm:any-promise"
+  }
+}
